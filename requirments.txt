@@ -134,3 +134,4 @@ wincertstore==0.2
 wrapt==1.16.0
 xyzservices==2023.7.0
 zipp==3.16.2
+scikit-learn
